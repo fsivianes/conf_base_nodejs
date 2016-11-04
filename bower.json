@@ -1,0 +1,29 @@
+{
+  "name": "nombre_proyecto",
+  "version": "1.0.0",
+  "homepage": "https://github.com/fsivianes/nombre_proyecto",
+  "description": "Descripción de nombre_proyecto",
+  "main": "app/index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angularJS",
+    "example",
+    "learning"
+  ],
+  "authors": [
+    "Francisco Sivianes <fsivianes@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "nombre_proyecto",
+  "version": "1.0.0",
+  "description": "Descripción nombre_proyecto",
+  "author": "Francisco Sivianes Castillo <fsivianes@gmail.com>",
+  "contributors": [
+    {
+      "name": "Francisco Sivianes Castillo",
+      "email": "fsivianes@gmail.com"
+    }
+  ],
+  "scripts": {
+    "test": "gulp",
+    "predeploy": "gulp deploy"
+  },
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fsivianes/nombre_proyecto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fsivianes/nombre_proyecto/issues"
+  },
+  "keywords": [
+    "angularJS",
+    "example",
+    "teaching"
+  ],
+  "dependencies": {
+    
+  },
+  "preferGlobal": true,
+  "private": false,
+  "license": "MIT",
+}
